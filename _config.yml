@@ -1,31 +1,30 @@
 ###### Translations here #######
 
 # SEO
-title: "PapaKoala: Exercices de stimulation précoce pour bébés, faciles à réaliser"
-tagline: Exercices de stimulation précoce pour bébés, faciles à réaliser
-description: Activités de stimulation précoce pour les bébés afin de favoriser le développement du cerveau, de fournir des expériences sensorielles précoces et de créer un sentiment de confiance.
+title: "PapaKoala: Frühe Stimulationsübungen für Babys leicht gemacht"
+tagline: Frühe Stimulationsübungen für Babys leicht gemacht
+description: Frühe Stimulationsaktivitäten für Babys zur Förderung der Gehirnentwicklung, Bereitstellung früher sensorischer Erfahrungen und Aufbau eines Vertrauensgefühls.
+# Seite Titel
+page_title: "Pflege deines kleinen Genies: Entdecke PapaKoalas frühkindliche Stimulationsreise"
+app_name: "PapaKoala: Neugeborenenentwicklung"
+app_price: Abonnementbasiert
+app_subtitle: Begreife eine Reise der Gehirnkapazität und des Bondings mit PapaKoala für Babys von 0 bis 1 Jahr.
+app_description: "Die frühen Jahre sind eine Fenster der außergewöhnlichen Gelegenheit für die Entwicklung des Gehirns eines Babys. Dies ist die beste Zeit, um ihr intellektuelles Potenzial zu entfachen und die Grundlage für lebenslanges Lernen zu legen. \nPapaKoala, Ihr persönlicher Führer zur frühen Stimulation, befähigt Sie, die kognitive Entwicklung Ihres Kindes zu fördern und eine tiefe emotionale Verbindung zu ihm aufzubauen."
 
-# page title
-page_title: "Cultivez votre petit génie: Découvrez le parcours de stimulation précoce de PapaKoala"
-app_name: "PapaKoala: Développement du nouveau-né"
-app_price: Basé sur un abonnement
-app_subtitle: Embarquez dans un voyage de puissance cérébrale et de connexion avec PapaKoala pour les bébés de 0 à 1 an.
-app_description: "Les premières années sont une fenêtre d'opportunité exceptionnelle pour le développement du cerveau d'un bébé. C'est le moment idéal pour allumer leur potentiel intellectuel et jeter les bases d'un apprentissage à vie.\nPapaKoala, votre guide personnel de stimulation précoce, vous permet de nourrir la croissance cognitive de votre tout-petit et de créer une profonde connexion émotionnelle avec lui."
-
-# Caractéristiques              Editez, ajoutez ou supprimez des fonctionnalités à présenter.
+# Feature Liste
 features:
-    - title: Libérez le pouvoir de la stimulation précoce
-      description: Immergez votre bébé dans un monde d'expériences stimulantes qui favorisent son développement cérébral et éveillent ses sens. Les activités soigneusement sélectionnées de PapaKoala, guidées par des recherches développementales expertes, introduisent votre petit à une symphonie de couleurs, de sons et de toucher, stimulant ses voies neurales et posant les bases du succès futur.
-      fontawesome_icon_name: baby
 
-    - title: Découvrez le plaisir de l'apprentissage interactif
-      description: Dites adieu aux exercices monotones et adoptez la nature amusante et engageante des activités interactives de PapaKoala. Nos tutoriels vidéo basés sur des vidéos fournissent des directives claires et rendent l'apprentissage une expérience agréable pour les parents et les bébés.
-      fontawesome_icon_name: brain
+- title: "Entfesseln Sie die Macht der frühen Stimulation"
+  description: Tauchen Sie Ihr Baby in eine Welt stimulierender Erfahrungen ein, die ihre Gehirnentwicklung fördern und ihre Sinne wecken. PapaKoalas sorgfältig kuratierte Aktivitäten, die von Experten der Entwicklungsforschung geleitet werden, führen Ihr Kind in eine Symphonie von Bildern, Geräuschen und Berührungen ein, stimulieren ihre neuralen Bahnen und legen den Grundstein für zukünftigen Erfolg.
+  fontawesome_icon_name: baby
 
-    - title: Nourritez un lien d'amour et de confiance
-      description: La stimulation précoce ne se limite pas au développement cognitif; il s'agit de créer un lien sécurisant et aimant entre vous et votre bébé. Les activités de PapaKoala mettent l'accent sur le toucher, la forme la plus fondamentale d'engagement d'un enfant, favorisant la confiance, la sécurité et une profonde connexion émotionnelle.
-      fontawesome_icon_name: heart
+- title: "Erleben Sie die Freude am interaktiven Lernen"
+  description: Verabschieden Sie sich von monotonen Übungen und begrüßen Sie die unterhaltsame und lehrreiche Natur von PapaKoalas interaktiven Aktivitäten. Unsere videobasierten Tutorials bieten klare Anleitung und machen das Lernen für Eltern und Babys zu einem erfreulichen Erlebnis.
+  fontawesome_icon_name: brain
 
+- title: "Fördern Sie eine Bindung aus Liebe und Vertrauen"
+  description: Frühe Stimulation geht über die kognitive Entwicklung hinaus. Es geht darum, eine sichere und liebevolle Bindung zwischen Ihnen und Ihrem Baby aufzubauen. PapaKoalas Aktivitäten legen Wert auf Berührung, die grundlegendste Form der Babyansprache, und fördern Vertrauen, Sicherheit und eine tiefe emotionale Verbindung.
+  fontawesome_icon_name: heart
 
 
 ############## end of translations block #####
